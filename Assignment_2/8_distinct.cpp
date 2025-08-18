@@ -15,7 +15,7 @@ int main() {
 
     int distinctCount = 0;
 
-    // Check each element if it is unique
+    // Check each element
     for (int i = 0; i < n; i++) {
         bool isDistinct = true;
 
