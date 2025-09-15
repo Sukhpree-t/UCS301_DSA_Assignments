@@ -81,12 +81,6 @@ int main() {
     int n;
     cout<<"Enter size of queue: ";
     cin>>n;
-    
-    if(n % 2 != 0) {
-        cout<<"Error: Queue size must be even for interleaving!"<<endl;
-        return 1;
-    }
-    
     cout<<"Enter elements of queue: ";
     for(int i=0;i<n;i++) {
         int x; 
