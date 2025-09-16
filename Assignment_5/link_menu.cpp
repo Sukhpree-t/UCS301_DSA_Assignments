@@ -153,7 +153,7 @@ int main() {
     // ll.printll();
     // ll.pop_back();
     // ll.printll();
-    ll.del(2);
+    // ll.del(2);
     ll.printll();
 
     cout<<"Pos is : "<<ll.search(3)<<endl;
